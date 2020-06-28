@@ -1,2 +1,2 @@
 # google-homepage
-Completed this dumb thing, took like 4 hours :(
+This took longer than I thought, was my first ever project, still improving.
